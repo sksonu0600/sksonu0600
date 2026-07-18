@@ -22,6 +22,12 @@ I build AI-powered applications using LangGraph, LangChain, OpenAI, FastAPI, and
 
 Currently building intelligent AI agents, desktop assistants, and enterprise AI solutions.
 
+<p align="center">
+<img src="https://img.shields.io/github/followers/sksonu0600?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sksonu0600&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/sksonu0600?style=for-the-badge"/>
+</p>
+
 ## 🚀 Current Focus
 
 - 🤖 Agentic AI
