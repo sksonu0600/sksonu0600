@@ -117,18 +117,37 @@ Currently building intelligent AI agents, desktop assistants, and enterprise AI 
 
 ---
 
-# 🔥 AI Workflow
 
-<p align="center">
+## 🔥 AI Workflow
 
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.png" width="130"/>
+```mermaid
+flowchart LR
+    User([👤 User])
+    UI[💻 Frontend]
+    API[⚡ FastAPI]
+    Router[🧠 LangGraph]
+    Agent1[🤖 CrewAI Agents]
+    Agent2[🦜 LangChain]
+    RAG[📚 RAG Pipeline]
+    Vector[(🗂️ Vector DB)]
+    LLM[💬 GPT / Gemini / Claude]
+    Memory[(🧠 Memory)]
+    Tools[🛠️ APIs & Tools]
+    Cloud[☁️ AWS / GCP]
 
-<img src="https://python.langchain.com/img/brand/wordmark.png" width="170"/>
-
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*QJv4N0LBrWq0j4rG0e9RkQ.png" width="200"/>
-
-</p>
-
+    User --> UI
+    UI --> API
+    API --> Router
+    Router --> Agent1
+    Router --> Agent2
+    Agent2 --> RAG
+    RAG --> Vector
+    Agent2 --> LLM
+    LLM --> Memory
+    LLM --> Tools
+    Tools --> Cloud
+    Cloud --> User
+```
 ---
 
 # 🚀 Currently Working On
