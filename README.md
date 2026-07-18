@@ -9,9 +9,14 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Engineer;Generative+AI+Developer;LangGraph+%7C+CrewAI+%7C+LangChain;Building+Enterprise+AI+Applications"/>
+</p>
+
 # 👋 Hi, I'm Sonu Kumar
 
-### Agentic AI Engineer | Python | Generative AI | Conversational AI
+### 🚀 Agentic AI Engineer • Building Intelligent AI Agents, Multi-Agent Systems & Enterprise GenAI Applications
 
 I build AI-powered applications using LangGraph, LangChain, OpenAI, FastAPI, and Python.
 
@@ -183,12 +188,6 @@ flowchart LR
 | 🤖 Agentic AI Projects | LangGraph + CrewAI + OpenAI implementations |
 | 📚 RAG Pipelines | FAISS, ChromaDB & Pinecone |
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sksonu0600/sksonu0600/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ## 💬 Ask Me About
 
