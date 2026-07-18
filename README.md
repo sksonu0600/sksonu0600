@@ -1,3 +1,14 @@
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sksonu0600&style=for-the-badge&color=blue">
+
+</p>
+
+## 💡 AI Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
 # 👋 Hi, I'm Sonu Kumar
 
 ### Agentic AI Engineer | Python | Generative AI | Conversational AI
@@ -118,50 +129,79 @@ Currently building intelligent AI agents, desktop assistants, and enterprise AI 
 ---
 
 
-## 🔥 AI Workflow
-
 ```mermaid
+---
+config:
+  theme: dark
+---
 flowchart LR
     User([👤 User])
     UI[💻 Frontend]
     API[⚡ FastAPI]
-    Router[🧠 LangGraph]
-    Agent1[🤖 CrewAI Agents]
-    Agent2[🦜 LangChain]
+    LG[🧠 LangGraph]
+    Crew[🤖 CrewAI Agents]
+    LC[🦜 LangChain]
     RAG[📚 RAG Pipeline]
-    Vector[(🗂️ Vector DB)]
-    LLM[💬 GPT / Gemini / Claude]
+    Vector[(🗂️ FAISS / Chroma / Pinecone)]
+    LLM[💬 GPT • Gemini • Claude]
     Memory[(🧠 Memory)]
-    Tools[🛠️ APIs & Tools]
-    Cloud[☁️ AWS / GCP]
+    Tools[🔧 APIs & MCP Tools]
+    Cloud[☁️ AWS • GCP]
 
     User --> UI
     UI --> API
-    API --> Router
-    Router --> Agent1
-    Router --> Agent2
-    Agent2 --> RAG
+    API --> LG
+    LG --> Crew
+    LG --> LC
+    Crew --> RAG
+    LC --> LLM
     RAG --> Vector
-    Agent2 --> LLM
     LLM --> Memory
     LLM --> Tools
     Tools --> Cloud
     Cloud --> User
 ```
----
+## 🧠 AI Ecosystem
 
-# 🚀 Currently Working On
+<p align="center">
 
-- 🤖 Multi-Agent AI Systems
-- 🧠 Agentic AI
-- 🔍 RAG Pipelines
-- 📚 Vector Databases
-- ⚡ LangGraph Workflows
-- 🔄 CrewAI Orchestration
-- ☁️ Google Vertex AI
-- 🐳 Docker Deployments
-- ⚙️ FastAPI AI APIs
+<img src="https://img.shields.io/badge/LLMs-GPT•Claude•Gemini-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FAISS•Chroma•Pinecone-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frameworks-LangGraph•CrewAI•LangChain-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deployment-GCP•AWS•Docker-red?style=for-the-badge"/>
+
+</p>
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧠 EchoMind | AI Desktop Assistant with Voice, Memory & Multi-Agent Workflows |
+| 🤖 Agentic AI Projects | LangGraph + CrewAI + OpenAI implementations |
+| 📚 RAG Pipelines | FAISS, ChromaDB & Pinecone |
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sksonu0600/sksonu0600/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+## 💬 Ask Me About
+
+- 🤖 Agentic AI
+- 🧠 LangGraph
+- 🔗 LangChain
+- 🤝 CrewAI
+- 📚 RAG
+- 🗂️ Vector Databases
+- ☁️ Google Cloud
+- 🚀 FastAPI
+- 💻 Python
 - 💬 Conversational AI
-## 📫 Connect with Me
+---
 
 - LinkedIn: https://linkedin.com/in/sksonu0600
