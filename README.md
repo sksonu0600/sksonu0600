@@ -61,13 +61,14 @@ Hands-on implementations while learning Agentic AI fundamentals.
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sksonu0600.vercel.app/api?username=sksonu0600&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sksonu0600.vercel.app/api/top-langs/?username=sksonu0600&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sksonu0600.vercel.app/api?username=sksonu0600" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sksonu0600&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sksonu0600" />
 </p>
 ## 📫 Connect with Me
 
