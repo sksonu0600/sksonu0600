@@ -59,7 +59,6 @@ AI-powered desktop assistant with voice interaction, AI agents, and automation.
 Hands-on implementations while learning Agentic AI fundamentals.
 
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
